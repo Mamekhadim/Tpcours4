@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TPCOUR5.props" />
+</Project>
